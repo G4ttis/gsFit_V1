@@ -15,10 +15,10 @@ public class Principal {
 		// Adcionando o professor admin
 		
 		Professor admin = new Professor();
-        admin.setNome("Matheus Gattis");
-        admin.setEmail("matheus.gattis@gmail.com");
-        admin.setCpf("126.130.989-88");
-        admin.setTelefone("(47) 99601-2530");
+        admin.setNome("Matheus Lancaster");
+        admin.setEmail("matheus.Lancaster@gmail.com");
+        admin.setCpf("999.999.999-99");
+        admin.setTelefone("(47) 99999-9999");
         admin.setDataNascimento(LocalDate.of(2002, 9, 7));
         admin.setTurno("Matutino");
         admin.setCapacitacao("Mestrado em Educação Física e Bem-Estar");
